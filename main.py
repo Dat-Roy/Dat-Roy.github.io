@@ -23,8 +23,4 @@ if __name__ == "__main__":
             print(info)
             ep += 1
 env.close()
-'''
-end
-'''
-print("The end")
-klalajaljlkajlkjalkjakl
+# The end
